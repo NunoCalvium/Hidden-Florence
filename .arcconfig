@@ -1,0 +1,7 @@
+{
+  "phabricator.uri":"https://projects.calvium.com/",
+  "history.immutable": false,
+  "arc.feature.start.default": "origin/develop",
+  "arc.land.onto.default": "develop",
+  "arc.land.update.default": "develop"
+}
